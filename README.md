@@ -1,4 +1,4 @@
-#Jogo para Download
+Jogo para Download
 
 Caso não saiba como baixar, siga os passos a seguir:
 
